@@ -1,2 +1,2 @@
 # Interview-Bit
-This repository has solutions of interview bit problems
+This repository has solutions of Interview bit problems
